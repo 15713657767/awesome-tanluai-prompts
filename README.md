@@ -1,2 +1,2 @@
 # awesome-tanluai-prompts
-| 字段 | 内容 | | --- | --- | | **Repository name** | `awesome-tanluai-prompts` | | **Description** | `🎨 AI Image &amp; Video Prompts \ | | **Visibility** | ✅ Public | | **Initialize** | ✅ Add a README file | | **License** | MIT License |
+🎨 AI Image & Video Prompts | 探路AI 提示词库 | Midjourney, Sora, Kling, Runway, Stable Diffusion
