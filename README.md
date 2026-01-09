@@ -62,7 +62,7 @@
 
 | 平台 | 账号 |
 |------|------|
-| 🎬 抖音 |[探路AI]((https://v.douyin.com/QfgrJmPFuvI/))|
+| 🎬 抖音 |[探路AI](https://v.douyin.com/QfgrJmPFuvI/)|
 | 📕 小红书 | **探路AI** |
 | 💬 公众号 |  搜索「探路AI超级个体之路」关注 |
 
